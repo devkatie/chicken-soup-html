@@ -1,3 +1,5 @@
+<h3>An html project for a course in college</h3>
+
 <h1>Student Exercise:  Chicken Noodle Soup</h1>
 <p>The purpose of  this exercise is to work creating CSS Styles in Dreamweaver.     </p>
 <p>Use the mockup, <strong><em>reference_chicken_noodle_soup.jpg</em></strong>,  as a guide to help you identify different elements on the page.  </p>
